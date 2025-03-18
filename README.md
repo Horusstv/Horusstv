@@ -6,7 +6,7 @@ I am seeking an opportunity to contribute my skills and dedication to a cybersec
 
 I’m currently learning Python and everything I can absorve related to cyber security.
 
-I like video games a lot and I always want to work on a field that is related to them.
+I like video games a lot, I used to work in the esports industry and I play almost anything I can get my hands on these days.
 
 If you want to reach me, send me an email to: horusstv@gmail.com
 
