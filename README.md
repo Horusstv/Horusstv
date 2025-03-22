@@ -1,16 +1,48 @@
-Hello, my name is Enrique also known as Horuss, I am a highly motivated and ethical professional with a strong commitment to protecting organizations from cyber threats. My core values integrity, loyalty, and a passion for safeguarding people drive my dedication to cybersecurity. I am eager to continuously learn about evolving attack vectors and implement proactive measures to defend against them.
+<h1>Hi, I'm Enrique! <br/><a href="https://www.linkedin.com/in/horusstv/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@horusstv/videos">Ocassional Youtuber</a></h1>
 
-With a detail oriented and organized mindset, I excel at maximizing the effectiveness of existing security tools to fortify organizations against threats. My primary focus is on the defensive side of cybersecurity, ensuring systems remain resilient against attacks. However, I also recognize the importance of offensive security techniques in strengthening overall defenses. By understanding both sides of the equation, I aim to create a well-rounded approach to cybersecurity.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-I am seeking an opportunity to contribute my skills and dedication to a cybersecurity team where I can grow, learn, and actively support the protection of digital assets against emerging threats.
+- <b>Conducting a Security Audit for a Fictional Company</b>
+  - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
 
-I’m currently learning Python and everything I can absorve related to cyber security.
 
-I like video games a lot, I used to work in the esports industry and I play almost anything I can get my hands on these days.
+<h2> Cybersecurity Certifications:</h2>
 
-If you want to reach me, send me an email to: horusstv@gmail.com
+- <b>Google</b>
+- <b>Comptia</b>
+- <b>Lets Defend</b>
 
-<!---
-Horusstv/Horusstv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
