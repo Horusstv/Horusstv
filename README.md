@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Conducting a Security Audit for a Fictional Company</b>
-  - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/Horusstv/Botium-Toys-Scope-goals-and-risk-assessment-report)
 
 
 <h2> Cybersecurity Certifications:</h2>
