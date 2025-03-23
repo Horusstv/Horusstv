@@ -4,7 +4,7 @@
 
 - <b>Conducting a Security Audit for a Fictional Company</b>
   - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/Horusstv/Botium-Toys-Scope-goals-and-risk-assessment-report)
-
+  - [Deploying and Testing a SIEM in an AzureVM](https://github.com/Horusstv/Deploy-and-Test-a-SIEM-in-an-Azure-VM)
 
 <h2> Cybersecurity Certifications:</h2>
 
