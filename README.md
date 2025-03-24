@@ -4,21 +4,22 @@
 
 - <b>Conducting a Security Audit for a Fictional Company</b>
   - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/Horusstv/Botium-Toys-Scope-goals-and-risk-assessment-report)
-  - [Deploying and Testing a SIEM in an AzureVM](https://github.com/Horusstv/Deploy-and-Test-a-SIEM-in-an-Azure-VM)
+ - <b>Deployment and Testing a Cloud Based SIEM Tool in Azure</b>
+   - [Deploying and Testing a SIEM in an AzureVM](https://github.com/Horusstv/Deploy-and-Test-a-SIEM-in-an-Azure-VM)
 
 <h2> Cybersecurity Certifications:</h2>
 
 - <b>Google</b>
-- <b>Comptia</b>
-- <b>Lets Defend</b>
+  - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/CEOQQ8Q41P2X)
+  - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/6EB4LWSW544P)
+- <b>Cisco</b>
+  - [Introduction to Cybersecurity](https://www.credly.com/badges/c018ef84-e489-478f-849f-05c37f346dda/linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Descansa en Paz Heroes of the Storm](https://youtu.be/Sby9KRjGZ6s?si=KehFyFoPzgn9TH1k)
+- [Blizzard el siguiente capitulo](https://youtu.be/MH-rK0EfF58?si=_9hIETy2pmLYwhd9)
+- [Censurada](https://youtu.be/0BTysvrdv3M?si=Cx6BTiImBln5j3Iw)
 
 <h2> 🤳 Connect with me:</h2>
 
