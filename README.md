@@ -4,7 +4,7 @@
 
 - <b>Conducting a Security Audit for a Fictional Company</b>
   - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/Horusstv/Botium-Toys-Scope-goals-and-risk-assessment-report)
- - <b>Deployment and Testing a Cloud Based SIEM Tool in Azure</b>
+ - <b>Deploying and Testing Microsoft Sentinel in Azure</b>
    - [Deploying and Testing a SIEM in an AzureVM](https://github.com/Horusstv/Deploy-and-Test-a-SIEM-in-an-Azure-VM)
  - <b>Wazuh Hybrid Lab</b>
    - [Deploying Wazuh SIEM and XDR Solution (hybrid lab)](https://github.com/Horusstv/Deploying-Wazuh-SIEM-and-XDR-Solution)
