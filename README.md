@@ -6,7 +6,8 @@
   - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://github.com/Horusstv/Botium-Toys-Scope-goals-and-risk-assessment-report)
  - <b>Deployment and Testing a Cloud Based SIEM Tool in Azure</b>
    - [Deploying and Testing a SIEM in an AzureVM](https://github.com/Horusstv/Deploy-and-Test-a-SIEM-in-an-Azure-VM)
-
+ - <b>Wazuh Hybrid Lab</b>
+   - [Deploying Wazuh SIEM and XDR Solution (hybrid lab)](https://github.com/Horusstv/Deploy-and-Test-a-SIEM-in-an-Azure-VM)
 <h2> Cybersecurity Certifications:</h2>
 
 - <b>Google</b>
