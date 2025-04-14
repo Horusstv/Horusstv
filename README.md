@@ -9,7 +9,7 @@
  - <b>Wazuh Hybrid Lab</b>
    - [Deploying Wazuh SIEM and XDR Solution (hybrid lab)](https://github.com/Horusstv/Deploying-Wazuh-SIEM-and-XDR-Solution)
  - <b>Changing File Permissions in Linux</b>
-   - [Deploying Wazuh SIEM and XDR Solution (hybrid lab)](https://github.com/Horusstv/Deploying-Wazuh-SIEM-and-XDR-Solution)
+   - [Changing File Permissions in Linux](https://github.com/Horusstv/Changing-File-Permissions-in-Linux/tree/main)
 <h2> Cybersecurity Certifications:</h2>
 
 - <b>Google</b>
