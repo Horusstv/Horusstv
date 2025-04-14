@@ -8,6 +8,8 @@
    - [Deploying and Testing a SIEM in an AzureVM](https://github.com/Horusstv/Deploy-and-Test-a-SIEM-in-an-Azure-VM)
  - <b>Wazuh Hybrid Lab</b>
    - [Deploying Wazuh SIEM and XDR Solution (hybrid lab)](https://github.com/Horusstv/Deploying-Wazuh-SIEM-and-XDR-Solution)
+ - <b>Changing File Permissions in Linux</b>
+   - [Deploying Wazuh SIEM and XDR Solution (hybrid lab)](https://github.com/Horusstv/Deploying-Wazuh-SIEM-and-XDR-Solution)
 <h2> Cybersecurity Certifications:</h2>
 
 - <b>Google</b>
