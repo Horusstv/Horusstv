@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enrique! <br/><a href="https://www.linkedin.com/in/horusstv/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@horusstv/videos">Ocassional Youtuber</a></h1>
+<h1>Hi, I'm Enrique! <br/><a href="https://www.linkedin.com/in/horusstv/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -21,10 +21,6 @@
   - [Introduction to Cybersecurity](https://www.credly.com/badges/c018ef84-e489-478f-849f-05c37f346dda/linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
-
-- [Descansa en Paz Heroes of the Storm](https://youtu.be/Sby9KRjGZ6s?si=KehFyFoPzgn9TH1k)
-- [Blizzard el siguiente capitulo](https://youtu.be/MH-rK0EfF58?si=_9hIETy2pmLYwhd9)
-- [Censurada](https://youtu.be/0BTysvrdv3M?si=Cx6BTiImBln5j3Iw)
 
 <h2> 🤳 Connect with me:</h2>
 
