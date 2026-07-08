@@ -22,4 +22,4 @@
 
 <h2> Connect with me:</h2>
 
-- [Introduction to Cybersecurity](https://www.linkedin.com/in/horusstv/)
+- [Linked in](https://www.linkedin.com/in/horusstv/)
