@@ -21,3 +21,5 @@
   - [Introduction to Cybersecurity](https://www.credly.com/badges/c018ef84-e489-478f-849f-05c37f346dda/linked_in_profile)
 
 <h2> Connect with me:</h2>
+
+- [Introduction to Cybersecurity](https://www.linkedin.com/in/horusstv/)
