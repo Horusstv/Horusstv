@@ -15,8 +15,8 @@
 <h2> Cybersecurity Certifications:</h2>
 
 - <b>Google</b>
-  - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/CEOQQ8Q41P2X)
-  - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/6EB4LWSW544P)
+  - [Google Cybersecurity Professional Certificate V2](https://www.coursera.org/account/accomplishments/professional-cert/GUQJPZJP22SL)
+
 - <b>Cisco</b>
   - [Introduction to Cybersecurity](https://www.credly.com/badges/c018ef84-e489-478f-849f-05c37f346dda/linked_in_profile)
 
