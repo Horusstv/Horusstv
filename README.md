@@ -15,7 +15,7 @@
 <h2> Cybersecurity Certifications:</h2>
 
 - <b>Google</b>
-  - [Google Cybersecurity Professional Certificate V2](https://www.coursera.org/account/accomplishments/professional-cert/GUQJPZJP22SL)
+  - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/019b1a08-e79a-4a0a-9bea-44509c17b794/public_url)
 
 - <b>Cisco</b>
   - [Introduction to Cybersecurity](https://www.credly.com/badges/c018ef84-e489-478f-849f-05c37f346dda/linked_in_profile)
