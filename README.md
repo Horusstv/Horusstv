@@ -12,7 +12,12 @@
    - [Changing File Permissions in Linux](https://github.com/Horusstv/Changing-File-Permissions-in-Linux/tree/main)
  - <b>SQL Queries</b>
    - [SQL Queries Lab](https://github.com/Horusstv/SQL-Queries/blob/main/README.md)
-<h2> Cybersecurity Certifications:</h2>
+
+  <h2>💻 Other Projects:</h2>
+
+  - <b>[Ark Rcon Manager](https://github.com/Horusstv/asa-rcon-manager)</b>
+
+<h2>📃 Cybersecurity Certifications:</h2>
 
 - <b>Google</b>
   - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/019b1a08-e79a-4a0a-9bea-44509c17b794/public_url)
